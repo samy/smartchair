@@ -1,0 +1,13 @@
+{
+  "name": "SmartChair",
+  "description": "",
+  "author": "Collectif",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "^4.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:samy/smartchair.git"
+  }
+}
