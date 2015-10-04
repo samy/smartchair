@@ -24,5 +24,5 @@ http.listen(3000, function(){
 
 
 
-process.stdin.setRawMode(true);
-process.stdin.resume();
+//process.stdin.setRawMode(true);
+//process.stdin.resume();
